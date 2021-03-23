@@ -29,3 +29,4 @@ Marco teorico / Diagramas
 
 ![](https://github.com/iaportero/Trabajo-de-Investigacion-P3/blob/main/Imagenes/i%202.png)
 
+![](https://github.com/iaportero/Trabajo-de-Investigacion-P3/blob/main/Imagenes/i%203.png)
