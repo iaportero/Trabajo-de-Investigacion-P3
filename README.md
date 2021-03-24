@@ -30,3 +30,16 @@ Marco teorico / Diagramas
 ![](https://github.com/iaportero/Trabajo-de-Investigacion-P3/blob/main/Imagenes/i%202.png)
 
 ![](https://github.com/iaportero/Trabajo-de-Investigacion-P3/blob/main/Imagenes/i%203.png)
+
+![](https://github.com/iaportero/Trabajo-de-Investigacion-P3/blob/main/Imagenes/i%204.png)
+
+CARACTERÍSTICAS DE UN TRANSFORMADOR NO IDEAL (TRANSFORMADOR REAL)
+
+![](https://github.com/iaportero/Trabajo-de-Investigacion-P3/blob/main/Imagenes/i%205.png)
+
+
+TRANSFORMADORES CON TOMAS Y DEVANADOS MÚLTIPLES
+
+![](https://github.com/iaportero/Trabajo-de-Investigacion-P3/blob/main/Imagenes/i%206.png)
+
+
